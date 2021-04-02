@@ -5,6 +5,8 @@ application up and running.
 
 Things you may want to cover:
 
+Ading in this line to test the commit on local terminal.
+
 * Ruby version
 
 * System dependencies
